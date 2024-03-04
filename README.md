@@ -1,3 +1,3 @@
 # lcsimchas
 
-### Website to display Lakewood Commons Simchas
+### Website to display Lakewood Commons Simchas in a calendar view
